@@ -29,4 +29,4 @@ Those commands are:
 
 All files are saved in the real filesystem (under `filesystem` directory), each worker having a separate sub-directory. The files are persitent (i.e. they are not deleted when the server shutdowns) and they are shared between both versions.
 
-For more information, a report and the rubric for the assignment are available under `doc` directory.
+For more information, a report and the rubric are available under `doc` directory.
